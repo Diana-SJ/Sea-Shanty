@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="theGame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/User/Desktop/theGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="theGame">
+				<Option output="C:/Users/User/Desktop/theGame/cmake-build-debug/theGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Desktop/theGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 theGame"/>
+					<CompileFile command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="theGame/fast">
+				<Option output="C:/Users/User/Desktop/theGame/cmake-build-debug/theGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Desktop/theGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 theGame/fast"/>
+					<CompileFile command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/User/Desktop/theGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/User/Desktop/theGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/2.83/devcpp/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/theGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/AI/Battle.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/AI/Pirate.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/Game.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/UI/UI.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/abstract/Character.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/abstract/IAttackable.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/abstract/IHealable.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/characters/Doctor.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/characters/Engineer.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/characters/Soldier.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/cpp/models/Ship.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/AI/Battle.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/AI/Pirate.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/Game.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/UI/UI.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/abstract/Character.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/abstract/IAttackable.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/abstract/IHealable.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/characters/Doctor.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/characters/Engineer.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/characters/Soldier.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/headers/models/Ship.h">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/main.cpp">
+			<Option target="theGame"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Desktop/theGame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
